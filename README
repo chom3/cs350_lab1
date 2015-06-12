@@ -1,0 +1,12 @@
+Name: Corey Hom
+email: chom3@binghamton.edu
+Lab Name: Weekly-lab1
+Instructions on how to compile:
+
+terminal: Compile by typing "gcc lab1.c"
+a.out will be created, and the program can be run.
+You will need to give an input file and output file upon request and the rest is done according to instruction.
+
+What seems to be peculiar is that the copying speed is incredibly fast. I'm confident that the parameters are correct but it seems unusual that a 30000 line file would take around 0.080 seconds. Maybe my thinking is incorrect? 
+My parameters may be incorrect as well, but to my understanding I think they are correct. 
+I read byte by byte and write whatever is in the buffer using a while loop, which I think works out to be fine according to instructions.
